@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andreapv19
+- 👋 Hi, I’m @andrea
 - 👀 I’m interested in learning Java
 - 🌱 I’m currently learning basic Java
 - 💞️ I’m looking to collaborate on fun projects :)
