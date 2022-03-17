@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andrea
-- 👀 I’m interested in learning Java
-- 🌱 I’m currently learning basic Java
+- 👀 I’m interested in Html & CSS
+- 🌱 I’m currently learning basic programming 
 - 💞️ I’m looking to collaborate on fun projects :)
 - 📫 How to reach me? my email 
 
